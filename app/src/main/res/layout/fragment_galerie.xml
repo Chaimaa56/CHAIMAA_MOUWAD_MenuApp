@@ -54,8 +54,8 @@
                 android:text="Next"
                 android:textColor="@color/white"
                 android:background="@color/clr1"
-                android:layout_marginStart="dp"
-                android:layout_marginTop="50dp"/>
+                android:layout_marginStart="0dp"
+             android:layout_marginTop="50dp"/>
 
         </LinearLayout>
 
