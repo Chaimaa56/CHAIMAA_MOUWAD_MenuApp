@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group>
+    <item
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/home"/>
+    <item
+        android:title="Image Gallery"
+        android:icon="@drawable/baseline_image_24"
+        android:id="@+id/gal"/>
+    <item
+        android:title="Calcul"
+        android:icon="@drawable/baseline_calculate_24"
+        android:id="@+id/calcul"/>
+    <item
+        android:title="Info"
+        android:icon="@drawable/baseline_info_24"
+        android:id="@+id/info"/>
+
+
+</group>
+    <group>
+        <item
+            android:title="Share"
+            android:icon="@drawable/baseline_share_24"
+            android:id="@+id/share"/>
+        <item
+            android:title="Login"
+            android:icon="@drawable/baseline_login_24"
+            android:id="@+id/login"/>
+    </group>
+</menu>
